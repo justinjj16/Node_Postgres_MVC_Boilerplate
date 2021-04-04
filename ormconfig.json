@@ -6,7 +6,7 @@
     "port": 5432,
     "username": "justin",
     "password": "root",
-    "database": "vibeonix",
+    "database": "nodePostgresMVCBoilerplate",
     "synchronize": false,
     "logging": false,
     "migrationsRun": true,

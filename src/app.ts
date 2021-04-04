@@ -114,9 +114,9 @@ class App {
 			basePath: '/',
 			host: 'http://localhost:4001',
 			info: {
-				title: 'REST API VIBEONIX',
+				title: 'REST API NodePostgresMVCBoilerplate',
 				version: '1.0.0',
-				description: 'API docs for vibeonix',
+				description: 'API docs for nodePostgresMVCBoilerplate',
 			},
 		};
 		const options: SwaggerOptions = { swaggerDefinition, apis: ['**/*.ts'] };
